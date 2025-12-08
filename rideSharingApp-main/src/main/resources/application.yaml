@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: rideSharaingApp
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/rideSharingApp
+jwt:
+  secret: mynotsosupersecretkey1234567890tokengeneratingkey
+  expiration: 86400000
