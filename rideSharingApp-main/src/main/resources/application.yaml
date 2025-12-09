@@ -5,5 +5,5 @@ spring:
     mongodb:
       uri: mongodb://localhost:27017/rideSharingApp
 jwt:
-  secret: mynotsosupersecretkey1234567890tokengeneratingkey
+  secret: nirbhayX7pQ9sT2mA4vR8yL3kB6fZ1wC5dH0gJtVqMpLsEn
   expiration: 86400000
